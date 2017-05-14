@@ -1,0 +1,11 @@
+# Basic Plugin Setup
+name: BukkitTesting
+version: 1.0.0
+description: Created by the Comportment.
+
+# Main Plugin Requirements
+main: me.diax.comportment.discordbridge.Main
+
+# Credits
+author: Comportment
+website: github.com/Comportment/DiscordBridge
